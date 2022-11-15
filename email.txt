@@ -1,0 +1,12 @@
+Dear ${PERSON_NAME},
+
+I hope this email finds you well. My name is XYZ and I am a computer engineering student at ABC.
+
+I recently started my internship search and saw your company's email in our university's database. I was wondering if you currently have any open positions for an intern. I would appreciate the opportunity to discuss that possibility.
+
+In the meantime, I have attached my CV for your review. Since I am only a third year student, my work experience is a bit lacking. However, I make up for it in terms of knowledge and the desire to learn.
+
+Thank you so much for your time. Have a nice day.   
+
+Sincerely,
+XYZ
